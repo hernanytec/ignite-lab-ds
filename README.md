@@ -1,5 +1,5 @@
 # ignite-lab-ds
-A Design Sytem created using figma and implemented with React, Tailwind CSS, Radix and Storybook
+A Design Sytem example created using figma and implemented with React, Tailwind CSS, Radix and Storybook
 
 See on [Figma](https://www.figma.com/file/RnEu3ozPkVZmkD2A7Y3WB6/Ignite-Lab-Design-System?node-id=0%3A1)
 
