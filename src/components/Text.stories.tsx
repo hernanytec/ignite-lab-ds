@@ -17,8 +17,20 @@ export const Small: StoryObj<TextProps> = {
   },
 };
 
-export const large: StoryObj<TextProps> = {
+export const Large: StoryObj<TextProps> = {
   args: {
     size: "lg",
+  },
+};
+
+export const CustomComponent: StoryObj<TextProps> = {
+  args: {
+    asChild: true,
+    children: <p>Esse componente é um parágrafo</p>,
+  },
+  argTypes: {
+    children: {
+      table: { disable: true },
+    },
   },
 };
